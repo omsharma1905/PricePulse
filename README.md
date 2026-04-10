@@ -12,7 +12,6 @@ A simple price tracker that emails you when the price drops.
 
 That’s it.
 
-
 ## Why I built this
 I wanted a simple way to track product prices without constantly checking the same page again and again.  
 So I built one.
