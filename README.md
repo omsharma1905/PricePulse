@@ -1,5 +1,6 @@
 # PricePulse
 
+
 A simple price tracker that emails you when the price drops.
 
 ## What it does
